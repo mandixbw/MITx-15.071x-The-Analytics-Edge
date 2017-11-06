@@ -10,3 +10,4 @@ Unit 6: Clustering
 Unit 7: Visualization
 Unit 8: Linear Optimization
 Unit 9: Integer Optimization
+.
