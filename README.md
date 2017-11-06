@@ -1,2 +1,2 @@
 # MITx-15.071x-The-Analytics-Edge
-Course materials from MITx-15.071x-The-Analytics-Edge on edX.org
+Assignment solutions and lecture notes for MITx-15.071x-The-Analytics-Edge on edX.org
