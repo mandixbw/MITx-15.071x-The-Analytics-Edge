@@ -1,6 +1,6 @@
 # The Analytics Edge
 
-**Assignment solutions, final exam solutions and lecture notes for MITx-15.071x-The-Analytics-Edge found at https://www.edx.org/course/analytics-edge-mitx-15-071x-3**
+**Assignment solutions, final exam solutions and lecture notes for MITx-15.071x-The-Analytics-Edge, found at https://www.edx.org/course/analytics-edge-mitx-15-071x-3**
 
 Unit 1: An Introduction to Analytics
 
